@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>delbox</title>
+    <link rel="stylesheet" href="stayle.css">
+    
+</head>
+<body>
+    <h1><center> Delbox</center></h1>
+    <h1>skåne</h1>
+    <h2>malmö stad</h2>
+
+   <hr> <p> Vi levererar varorna så snart som möjligt</p> <hr />
+   <p>This is a red paragraph.</p>
+    <button>söka</button>
+   <input />
+    <ul>
+        <li>about</li>
+        <li>contact</li>
+        <li>project</li>
+        <li>tjänster</li>
+
+    </ul>
+    <br>
+<p title="emergency number:333">mouse me to see what it is hidden </p>
+    
+
+
+    <img src="C:\Users\linna\OneDrive\Desktop\NOOR\bild.jfif" alt="delboxbild" >
+    <p style="color: aqua;">Here we go:</p>
+    <a href="https://translate.google.com/?hl=sv&ie=UTF-8&sl=sv&tl=ar&op=translate">this link</a>
+</body>
+</html>
